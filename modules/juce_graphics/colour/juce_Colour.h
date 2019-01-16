@@ -35,7 +35,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  Colour  final
+class JUCE_API  Colour
 {
 public:
     //==============================================================================

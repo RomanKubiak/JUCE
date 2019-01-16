@@ -35,7 +35,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  ColourGradient  final
+class JUCE_API  ColourGradient
 {
 public:
     /** Creates an uninitialised gradient.

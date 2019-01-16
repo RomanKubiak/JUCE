@@ -38,7 +38,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  FillType  final
+class JUCE_API  FillType
 {
 public:
     //==============================================================================

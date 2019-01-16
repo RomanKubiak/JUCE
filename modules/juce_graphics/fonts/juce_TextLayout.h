@@ -38,7 +38,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  TextLayout  final
+class JUCE_API  TextLayout
 {
 public:
     /** Creates an empty layout.

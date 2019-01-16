@@ -43,7 +43,7 @@ namespace juce
 
     @tags{Core}
 */
-class JUCE_API  DirectoryIterator  final
+class JUCE_API  DirectoryIterator
 {
 public:
     //==============================================================================

@@ -48,7 +48,7 @@ namespace juce
 
     @tags{DataStructures}
 */
-class JUCE_API  Value  final
+class JUCE_API  Value
 {
 public:
     //==============================================================================

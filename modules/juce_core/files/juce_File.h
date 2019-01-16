@@ -37,7 +37,7 @@ namespace juce
 
     @tags{Core}
 */
-class JUCE_API  File final
+class JUCE_API  File
 {
 public:
     //==============================================================================

@@ -55,7 +55,7 @@ class ImagePixelData;
 
     @tags{Graphics}
 */
-class JUCE_API  Image  final
+class JUCE_API  Image
 {
 public:
     //==============================================================================

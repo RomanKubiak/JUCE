@@ -40,7 +40,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  AffineTransform  final
+class JUCE_API  AffineTransform
 {
 public:
     //==============================================================================

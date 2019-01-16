@@ -36,7 +36,7 @@ namespace juce
 
     @tags{GUI}
 */
-class JUCE_API  MouseEvent  final
+class JUCE_API  MouseEvent
 {
 public:
     //==============================================================================

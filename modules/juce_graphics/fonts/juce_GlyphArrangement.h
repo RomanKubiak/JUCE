@@ -39,7 +39,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  PositionedGlyph  final
+class JUCE_API  PositionedGlyph
 {
 public:
     //==============================================================================
@@ -123,7 +123,7 @@ private:
 
     @tags{Graphics}
 */
-class JUCE_API  GlyphArrangement  final
+class JUCE_API  GlyphArrangement
 {
 public:
     //==============================================================================

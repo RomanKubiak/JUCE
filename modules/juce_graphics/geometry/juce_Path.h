@@ -62,7 +62,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  Path  final
+class JUCE_API  Path
 {
 public:
     //==============================================================================

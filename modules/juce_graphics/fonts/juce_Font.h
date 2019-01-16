@@ -39,7 +39,7 @@ namespace juce
 
     @tags{Graphics}
 */
-class JUCE_API  Font  final
+class JUCE_API  Font
 {
 public:
     //==============================================================================

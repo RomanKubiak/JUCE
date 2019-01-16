@@ -31,7 +31,7 @@ namespace juce
 
     @tags{Core}
 */
-class JUCE_API  Random  final
+class JUCE_API  Random
 {
 public:
     //==============================================================================

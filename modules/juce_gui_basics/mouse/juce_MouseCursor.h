@@ -36,7 +36,7 @@ namespace juce
 
     @tags{GUI}
 */
-class JUCE_API  MouseCursor  final
+class JUCE_API  MouseCursor
 {
 public:
     //==============================================================================

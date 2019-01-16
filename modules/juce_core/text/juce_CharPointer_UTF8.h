@@ -31,7 +31,7 @@ namespace juce
 
     @tags{Core}
 */
-class CharPointer_UTF8  final
+class CharPointer_UTF8
 {
 public:
     using CharType = char;
